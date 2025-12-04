@@ -8,10 +8,10 @@
     src="https://img.shields.io/badge/License-Apache%202.0-f5de53?&color=f5de53"/></a>
     <a href="https://arxiv.org/abs/2511.05459"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.05459-B31B1B?logo=arxiv&logoColor=white"/></a>
     <br>
-    <a href="https://github.com/shunxing12345/swecompass/stargazers"><img alt="GitHub stars"
-    src="https://img.shields.io/github/stars/shunxing12345/swecompass"/></a>
-    <a href="https://github.com/shunxing12345/swecompass/network"><img alt="GitHub forks"
-    src="https://img.shields.io/github/forks/shunxing12345/swecompass"/></a>
+    <a href="https://github.com/kwaipilot/SWE-Compass/stargazers"><img alt="GitHub stars"
+    src="https://img.shields.io/github/stars/kwaipilot/SWE-Compass"/></a>
+    <a href="https://github.com/kwaipilot/SWE-Compass/network"><img alt="GitHub forks"
+    src="https://img.shields.io/github/forks/kwaipilot/SWE-Compass"/></a>
     </div>
 </div>
 
